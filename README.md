@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @rejithrnath
-- 👀 I’m interested in python & C#
-- 🌱 I’m a part time student
 - 📫 rejithrnath@gmail.com
 
 <!---
