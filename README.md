@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rejithrnath
+- 👋 Hi, I’m @
 
 
 <!---
